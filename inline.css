@@ -28,3 +28,24 @@ p{
 	margin: 0 auto;
 	width:  600px;
 }
+
+img{
+	float:left;
+	margin: 0 1rem 1rem 0;
+}
+
+a{
+	display:inline-block;
+	background: yellow;
+	height: 50px;
+	width: 180px;
+}
+
+span{
+	color: red;
+}
+
+.Buchstabe{
+	font-size: 400%;
+	float:left;
+}
